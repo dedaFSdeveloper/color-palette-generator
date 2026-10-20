@@ -87,3 +87,10 @@ En todos los casos el código fue comprendido, adaptado e integrado manualmente 
 
 Ezequiel Molinari  
 [github.com/dedaFSdeveloper](https://github.com/dedaFSdeveloper)
+
+---
+
+## 👤 Autor / Author
+
+**Ezequiel Molinari** — Full Stack Developer · AI & Automation  
+📫 [molinariezequiel2@gmail.com](mailto:molinariezequiel2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ezmolinari12/) · [GitHub](https://github.com/dedaFSdeveloper) · [libreriacrayon.com.ar](https://libreriacrayon.com.ar)
